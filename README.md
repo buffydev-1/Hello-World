@@ -4,25 +4,47 @@ This repository contains a simple "Hello, World!" program written in multiple pr
 
 ## Languages Included
 Here are the languages included in this project:
-- Python
-- JavaScript
-- Java
-- C
-- C++
-- Ruby
-- PHP
-- Go
-- Swift
-- Kotlin
-- Rust
-- TypeScript
-- Perl
-- Lua
-- Shell (Bash)
-- Haskell
-- R
-- MATLAB
-- Visual Basic
+- C  
+- C++  
+- Clojure  
+- Assembly (AT&T)  
+- Assembly (Intel)  
+- Batch (CMD)  
+- Dart  
+- Elixir  
+- Erlang  
+- Go  
+- Groovy  
+- Haskell  
+- HTML  
+- Java  
+- JavaScript  
+- Julia  
+- Kotlin  
+- Lisp  
+- Lua  
+- Objective-C  
+- Pascal  
+- Perl  
+- PHP  
+- Python  
+- R  
+- Ruby  
+- Rust  
+- Scala  
+- Shell (Bash)  
+- SQL  
+- TypeScript  
+- Visual Basic  
+- Zig  
+- Fortran  
+- Brainfuck  
+- CoffeeScript  
+- Chicken Scheme  
+- Progress (PRG)  
+- Rebol  
+- GDScript  
+- ActionScript  
 
 ## How to Download and Run the Code
 
@@ -33,3 +55,4 @@ First, clone this repository to your local machine by running the following comm
 
 ```bash
 git clone https://github.com/your-username/hello-world-every-language.git
+```
