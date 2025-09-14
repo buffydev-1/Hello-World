@@ -54,5 +54,5 @@ To get started with this repository, follow these steps:
 First, clone this repository to your local machine by running the following command in your terminal or Git client:
 
 ```bash
-git clone https://github.com/your-username/hello-world-every-language.gi
+git clone https://github.com/your-username/hello-world-every-language.git
 ```
